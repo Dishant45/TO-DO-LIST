@@ -1,4 +1,4 @@
-# TO-DO LIST
+
 
 <img src='./images/logo.png'>
 
@@ -10,6 +10,6 @@ Content
 - **style.css**-this files contain all the style for clock watch navigation bar and footer.
 - **src**-this is javascript folder in which we have created modules and are imported in main.js which is linked to html page
 
-# DEMO
+# DEMO https://dishant45.github.io/TO-DO-LIST/index.html
 
 <img src='./images/banner.jpeg'>
